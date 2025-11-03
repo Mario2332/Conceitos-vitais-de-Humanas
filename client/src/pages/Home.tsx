@@ -103,7 +103,7 @@ export default function Home() {
               Material de Estudo
             </h2>
             <p className="text-lg text-gray-600">
-              Baixe os conceitos vitais e prepare-se para sua prova
+              Baixe os conceitos vitais e revise os conteúdos!
             </p>
           </div>
 
@@ -153,11 +153,11 @@ export default function Home() {
           <div className="text-center space-y-4">
             <h3 className="text-2xl font-bold">Mentoria Mário Machado</h3>
             <p className="text-blue-200 max-w-2xl mx-auto">
-              Preparação completa para sua aprovação nos principais vestibulares do país
+              Orientação de qualidade para o ENEM!
             </p>
             <div className="pt-6 border-t border-white/10">
               <p className="text-sm text-gray-400">
-                © 2024 Mentoria Mário Machado. Todos os direitos reservados.
+                © 2025 Mentoria Mário Machado. Todos os direitos reservados.
               </p>
             </div>
           </div>
